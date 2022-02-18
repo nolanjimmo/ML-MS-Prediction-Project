@@ -1,0 +1,2 @@
+timestamp_start,local_timestamp_start,duration,stride_time_R,stride_time_cv,stance_dur_R,swing_dur_R,duty_fac_R,duty_fac_cv,ly_ML,ly_AP,rms_AP,freqd_ML,ent_rat_R
+1556744530.71319,01-May-2019 17:02:10,8,1.41390153612679,0.0858213930363225,0.930752158929768,0.483149377197025,0.658286404779959,0.0413868990583537,NaN,NaN,0.142515141465138,0.636676851199657,NaN

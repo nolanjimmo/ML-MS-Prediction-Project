@@ -1,0 +1,1 @@
+timestamp_start,local_timestamp_start,transitionType,transitionLabel,sittingDuration,standingDuration,transitionTime,JerkCC,JerkHorz,P5_accel_cc,P50_accel_cc,P95_accel_cc,P5_accel_horz,P50_accel_horz,P95_accel_horz,rangeCC,rangeHorz,SEF,totalPowerCC,totalPowerHorz,F50_CC,F95_CC,F50_Horz,F95_Horz,ApEn_CC,ApEn_Horz,standingJerk,standingRange,standingF50
